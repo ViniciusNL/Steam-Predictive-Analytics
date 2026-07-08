@@ -180,18 +180,18 @@ The project automatically generates several publication-quality figures.
 ## 📊 Exploratory Data Analysis
 
 <p align="center">
-<img src="figures/01_price_distribution.png" width="48%">
-<img src="figures/02_games_per_year.png" width="48%">
+<img src="01_generos_avaliacoes.png" width="48%">
+<img src="02_indie_vs_aaa.png" width="48%">
 </p>
 
 <p align="center">
-<img src="figures/03_free_vs_paid.png" width="48%">
-<img src="figures/04_top_publishers.png" width="48%">
+<img src="03_preco_vs_nota.png" width="48%">
+<img src="04_gratuitos_vs_reviews.png" width="48%">
 </p>
 
 <p align="center">
-<img src="figures/05_top_genres.png" width="48%">
-<img src="figures/06_price_vs_reviews.png" width="48%">
+<img src="05_top_publishers.png" width="48%">
+<img src="06_clusters_steam_pca.png" width="48%">
 </p>
 
 ---
@@ -199,12 +199,12 @@ The project automatically generates several publication-quality figures.
 ## 📈 Time Series & Forecasting
 
 <p align="center">
-<img src="steam_figures_timeseries/01_elasticidade_preco.png" width="48%">
-<img src="steam_figures_timeseries/02_curva_retencao_jogadores.png" width="48%">
+<img src="01_elasticidade_preco.png" width="48%">
+<img src="02_curva_retencao_jogadores.png" width="48%">
 </p>
 
 <p align="center">
-<img src="steam_figures_timeseries/03_previsao_ccu_timeseries.png" width="80%">
+<img src="03_previsao_ccu_timeseries.png" width="80%">
 </p>
 
 ---
